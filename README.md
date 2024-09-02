@@ -15,3 +15,5 @@ This project is a simple portfolio website built using laravel and tailwindcss.
 7. Run **php artisan migrate**
 8. Run **php artisan serve**
 9. All done!
+
+<img width="100%" src="https://raw.githubusercontent.com/ashraful1971/larafolio/master/public/images/larafolio-screenshot.png">
